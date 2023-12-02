@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview.GeneralUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorWasmReview.GeneralUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorWasmReview.GeneralUI.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview.GeneralUI\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview.GeneralUI\\wwwroot\\css\\controls.css",
+      "PackagePath": "staticwebassets\\css\\controls.css"
+    },
+    {
+      "Id": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview.GeneralUI\\wwwroot\\css\\sign.css",
+      "PackagePath": "staticwebassets\\css\\sign.css"
+    },
+    {
+      "Id": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview.GeneralUI\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorWasmReview.GeneralUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorWasmReview.GeneralUI.props",
+      "PackagePath": "build\\BlazorWasmReview.GeneralUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorWasmReview.GeneralUI.props",
+      "PackagePath": "buildMultiTargeting\\BlazorWasmReview.GeneralUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorWasmReview.GeneralUI.props",
+      "PackagePath": "buildTransitive\\BlazorWasmReview.GeneralUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

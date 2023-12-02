@@ -1,0 +1,12 @@
+﻿<div class="validation-container">
+    <input type="text" class="validation-input form-control" @onchange="HandleInputChanged"
+           @attributes="InputAttributes"
+           value="@Value" style="@(string.IsNullOrEmpty(Error) ? "":"border-top-right-radius:0;border-bottom-right-radius:0")" />
+    @if (!string.IsNullOrEmpty(Error))
+    {
+        <div class="val-tooltip">
+            <p>!</p>
+            <span class="val-tooltiptext">@Error</span>
+        </div>
+    }
+</div>

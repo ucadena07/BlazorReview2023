@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlazorWasmReview.Business/1.0.0": {
+        "dependencies": {
+          "BlazorWasmReview.Shared": "1.0.0"
+        },
+        "runtime": {
+          "BlazorWasmReview.Business.dll": {}
+        }
+      },
+      "BlazorWasmReview.Shared/1.0.0": {
+        "runtime": {
+          "BlazorWasmReview.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorWasmReview.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazorWasmReview.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

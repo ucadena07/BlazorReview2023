@@ -1,0 +1,32 @@
+﻿@page "/signin"
+
+
+
+
+
+<div class="sign-form">
+    <p class="welcome-text">Hello @UserName - Today is @Day!</p>
+    <EditForm EditContext="@EditContext" OnSubmit="OnSubmit">
+        <DataAnnotationsValidator />
+        @*         <InputText type="text" placeholder="Username" class="sign-input form-control"  @bind-Value="User.UserName" />
+        <ValidationMessage For="() => User.UserName"/> *@
+        <div class="sign-validation">
+            <ValidationInput @bind-Value="@User.UserName" Error="@GetError(() => User.UserName)" placeholder="Username"  />
+
+        </div>
+        @*         <InputText type="password" placeholder="Password" class="sign-input form-control" @bind-Value="User.Password" />
+        <ValidationMessage For="() => User.Password" /> *@
+        <div class="sign-validation">
+            <ValidationInput @bind-Value="@User.Password" Error="@GetError(() => User.Password)" type="password" placeholder="Password" />
+
+        </div>
+        <button class="sign-button btn btn-primary" type="submit">Sign In</button>
+    </EditForm>
+
+    <div class="signup">
+        <a href="@(User.UserName != null ? $"/signup?username={User.UserName}" : "/signup")">Sign up</a>
+    </div>
+</div>
+
+
+

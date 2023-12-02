@@ -1,0 +1,31 @@
+﻿@page "/signup"
+@using BlazorWasmReview.Shared.Enums
+
+<div class="sign-form">
+    <EditForm EditContext="@EditContext"  OnSubmit="OnValidSubmit">
+        <DataAnnotationsValidator />
+        <div class="sign-validation">
+            <ValidationInput @bind-Value="@User.UserName" Error="@GetError(() => User.UserName)" placeholder="Username" />
+        </div>
+        <div class="sign-validation">
+            <ValidationInput @bind-Value="@User.Password" Error="@GetError(() => User.Password)" type="password" placeholder="Password" />
+        </div>
+        <div class="sign-validation">
+            <ValidationInput @bind-Value="@User.FirstName" Error="@GetError(() => User.FirstName)" placeholder="FirstName" />
+        </div>
+        <div class="sign-validation">
+            <ValidationInput @bind-Value="@User.LastName" Error="@GetError(() => User.LastName)" placeholder="LastName" />
+        </div>
+        <div class="sign-validation">
+            <ValidationInput @bind-Value="@User.Phone" Error="@GetError(() => User.Phone)" placeholder="Phone" />
+        </div>
+        <div class="sign-validation">
+          
+            <Dropdown TValue="GenderTypeEnum" @bind-SelectedItem="@SelectedGenderType" SelectableItems="@GenderTypesDropdownItems" />
+    
+        </div>
+        <button class="sign-button btn btn-primary" type="submit">Sign Up</button>
+    </EditForm>
+</div>
+
+

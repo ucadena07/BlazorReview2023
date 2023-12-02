@@ -1,0 +1,28 @@
+﻿@using BlazorWasmReview.Shared.Contracts
+@inherits LayoutComponentBase
+@inject ICurrentUserService _currentUserService
+
+<nav class="navbar navbar-light justify-content-between fixed-top">
+    <a class="navbar-brand" href="#">Hello, @_currentUserService.CurrentUser?.UserName</a>
+    <form class="form-inline">
+        <NavLink href="settings" ActiveClass="active-nav">
+            <button class="btn btn-outline-success my my-2 my-sm-0">Settings</button>
+        </NavLink>
+        <NavLink href="settings" ActiveClass="active-nav">
+            <button class="btn btn-outline-success my my-2 my-sm-0">About</button>
+        </NavLink>
+        <div class="btn btn-outline-success my my-2 my-sm-0">Sign out</div>
+    </form>
+</nav>
+<main>
+    <div class="main mt-10">
+        <div class="content px-4">
+            @Body
+        </div>
+    </div>
+
+</main>
+
+@code{
+
+}

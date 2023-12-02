@@ -1,0 +1,15 @@
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\bin\Debug\net8.0\BlazorWasmReview.Business.deps.json
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\bin\Debug\net8.0\BlazorWasmReview.Business.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\bin\Debug\net8.0\BlazorWasmReview.Business.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.AssemblyInfoInputs.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.AssemblyInfo.cs
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.csproj.CoreCompileInputs.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\refint\BlazorWasmReview.Business.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\ref\BlazorWasmReview.Business.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\bin\Debug\net8.0\BlazorWasmReview.Shared.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\bin\Debug\net8.0\BlazorWasmReview.Shared.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.csproj.AssemblyReference.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.csproj.CopyComplete

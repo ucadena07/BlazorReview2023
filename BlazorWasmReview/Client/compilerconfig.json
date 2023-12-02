@@ -1,0 +1,26 @@
+﻿[
+  {
+    "outputFile": "wwwroot/css/components/ItemCheckbox.css",
+    "inputFile": "wwwroot/css/components/ItemCheckbox.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/components/itemElement.css",
+    "inputFile": "wwwroot/css/components/itemElement.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/components/ItemList.css",
+    "inputFile": "wwwroot/css/components/ItemList.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/app.css",
+    "inputFile": "wwwroot/css/app.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/components/itemsOverview.css",
+    "inputFile": "wwwroot/css/components/itemsOverview.scss"
+  },
+  {
+    "outputFile": "wwwroot/css/components/ItemEdit.css",
+    "inputFile": "wwwroot/css/components/ItemEdit.scss"
+  }
+]

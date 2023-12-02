@@ -1,0 +1,11 @@
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\bin\Debug\net8.0\BlazorWasmReview.DataAccess.deps.json
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\bin\Debug\net8.0\BlazorWasmReview.DataAccess.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\bin\Debug\net8.0\BlazorWasmReview.DataAccess.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\obj\Debug\net8.0\BlazorWasmReview.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\obj\Debug\net8.0\BlazorWasmReview.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\obj\Debug\net8.0\BlazorWasmReview.DataAccess.AssemblyInfo.cs
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\obj\Debug\net8.0\BlazorWasmReview.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\obj\Debug\net8.0\BlazorWasmReview.DataAccess.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\obj\Debug\net8.0\refint\BlazorWasmReview.DataAccess.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\obj\Debug\net8.0\BlazorWasmReview.DataAccess.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.DataAccess\obj\Debug\net8.0\ref\BlazorWasmReview.DataAccess.dll

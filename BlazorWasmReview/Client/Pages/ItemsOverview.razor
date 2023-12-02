@@ -1,0 +1,19 @@
+﻿@page "/items"
+@page "/items/{TypeString}/{Id:int}"
+@using BlazorWasmReview.Client.Components
+
+<div class="items-container">
+    <div class="items-list-container">
+        <ItemList />
+    </div>
+    @if (ShowEdit)
+    {
+        <div class="items-list-container">
+            <ItemEdit></ItemEdit>
+        </div>
+    }
+
+</div>
+
+
+
