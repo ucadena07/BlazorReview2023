@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorWasmReview.Client",
   "resources": {
-    "hash": "sha256-zPVFgQraRvM8VpksHPylSnoKhuOQ8FfP/rMu9xz+QIE=",
+    "hash": "sha256-TojWfmDTwT4aEbz9P6uoGa8DfKtDSGLTPZa9kj6fXq4=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.9mb56n7r19.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -214,18 +214,18 @@
       "mscorlib.wasm": "sha256-cDuLeL3OCtVtiid/dyex1MVgbuzDSRwZxKzuP2Dp4mg=",
       "netstandard.wasm": "sha256-A0h86SDieTMoU/wU2JTszWCsUmMuguDcbap0b0BzsmI=",
       "System.Private.CoreLib.wasm": "sha256-/0DNIm/T0C07X7Tuz5uR8JvVCoAfEE2MnfPUSjyS9xc=",
-      "BlazorWasmReview.Business.wasm": "sha256-3senrzgcUGQxcPL0j9bugHC3S2Rkva498ScoRiUx74c=",
+      "BlazorWasmReview.Business.wasm": "sha256-DkVd706AhwP10sxFbe0zjMw/sAtc+gIY2rbLdHzzbDs=",
       "BlazorWasmReview.GeneralUI.wasm": "sha256-6Djlpq5GLbt+UwrJ+jQvrobwyAqCQICCEV9hOylcn2Y=",
-      "BlazorWasmReview.Shared.wasm": "sha256-n+ekZ5MW3G1O0nf7UaZ4+hC1aPspKpYij1Vmy154wgk=",
-      "BlazorWasmReview.TestFake.wasm": "sha256-oWGSHhUfM/SstBTRMi2eymKRhYlrx1GH/0IM61q41AE=",
-      "BlazorWasmReview.Client.wasm": "sha256-CF+/3RqRkvQHUa7WV+PcTRou4rfzv48aWZi7/RUzRAk="
+      "BlazorWasmReview.Shared.wasm": "sha256-Ku1r+x6Ym6pMRsUYkLqoD21TTJFQ9i+bqe7xEeeVBvI=",
+      "BlazorWasmReview.TestFake.wasm": "sha256-V/k/7AQ0Ijic535Ja7jzC627RQ6GczoZwZgobna1ECM=",
+      "BlazorWasmReview.Client.wasm": "sha256-aG1ivZlaWlkCUHTiiVzSXkiYJeo02mQ+kZ8V21rr82Y="
     },
     "pdb": {
-      "BlazorWasmReview.Business.pdb": "sha256-qk1eCqU/lBym3FOnf+UdA93wSGaFewn7qY90GxNaKJI=",
+      "BlazorWasmReview.Business.pdb": "sha256-NztBgHbu9yaO0gc4L5aLYx960GFkhGA0jyCfqPGio1w=",
       "BlazorWasmReview.GeneralUI.pdb": "sha256-YpugqiQhb1eH6qKA6Ks/PoiYzLi9s+T36FkGgSc087A=",
-      "BlazorWasmReview.TestFake.pdb": "sha256-C+8OBmA0N9Fp96acdEc8o4n1eLhxxa0awrI6/J31jRE=",
-      "BlazorWasmReview.Shared.pdb": "sha256-7oVmsqeYvP9Ax0O2DEVm4nsiqfo0lUp2AlYV2rhBGvQ=",
-      "BlazorWasmReview.Client.pdb": "sha256-0dejirJfE10lRGzEw/Lpqio2rZGJURdj0qTbvI2fRag="
+      "BlazorWasmReview.TestFake.pdb": "sha256-plIzPop8HC/auxnc/ApIHOR4vmJ+JUlMrDiQNE+5yU0=",
+      "BlazorWasmReview.Shared.pdb": "sha256-F9U56aSW2ZT8F778hwoEcipFsB26XBokbP+bz+V5xGU=",
+      "BlazorWasmReview.Client.pdb": "sha256-rJuSJvSuWdbnf1EJy6O9E2s5NM0OM+D+TQywyBZOUlQ="
     }
   },
   "cacheBootResources": true,

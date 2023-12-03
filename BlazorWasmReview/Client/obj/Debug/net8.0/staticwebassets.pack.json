@@ -725,6 +725,10 @@
       "PackagePath": "staticwebassets\\css\\_boostrap_global.scss"
     },
     {
+      "Id": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Client\\wwwroot\\css\\_variables.scss",
+      "PackagePath": "staticwebassets\\css\\_variables.scss"
+    },
+    {
       "Id": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },

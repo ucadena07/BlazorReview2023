@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zr8jE1gmhTa9BBDBDU3uJ60tYQdfgMBxTvCRF6VJFFg=",
+  "Hash": "XOw9M+mKuf1M+dNWADxf3Q+6kcjMMzthZoFcF6FWo0Y=",
   "Source": "BlazorWasmReview.Server",
   "BasePath": "_content/BlazorWasmReview.Server",
   "Mode": "Default",
@@ -11825,6 +11825,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\_boostrap_global.scss"
+    },
+    {
+      "Identity": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Client\\wwwroot\\css\\_variables.scss",
+      "SourceId": "BlazorWasmReview.Client",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Client\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "css/_variables.scss",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\_variables.scss"
     },
     {
       "Identity": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Client\\wwwroot\\css\\app.css",

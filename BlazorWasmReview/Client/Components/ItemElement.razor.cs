@@ -1,6 +1,7 @@
 using BlazorWasmReview.Client.ItemEdit;
 using BlazorWasmReview.Shared.Entities;
 using Microsoft.AspNetCore.Components;
+using System.ComponentModel;
 
 namespace BlazorWasmReview.Client.Components;
 
@@ -34,4 +35,17 @@ public partial class ItemElement<TItem> where TItem : BaseItem
         _navigationManager.NavigateTo(url.ToString());
     }
 
+    protected override void OnAfterRender(bool firstRender)
+    {
+        base.OnAfterRender(firstRender);    
+        if(firstRender)
+        {
+            Item.PropertyChanged += HandleItemPropertyChanged;
+        }
+    }
+
+    private void HandleItemPropertyChanged(object sender, PropertyChangedEventArgs e)
+    {
+        StateHasChanged();
+    }
 }

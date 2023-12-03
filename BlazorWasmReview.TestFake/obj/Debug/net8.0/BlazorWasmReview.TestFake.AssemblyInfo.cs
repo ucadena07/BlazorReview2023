@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorWasmReview.TestFake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e06d700a13b934a5d1ff9b6bc1bfc44c8148f1b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ab1699fd0179484c5d44976f10f5bf7b2b2a524")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorWasmReview.TestFake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorWasmReview.TestFake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
