@@ -9,3 +9,4 @@ C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWas
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Shared\obj\Debug\net8.0\refint\BlazorWasmReview.Shared.dll
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Shared\obj\Debug\net8.0\BlazorWasmReview.Shared.pdb
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Shared\obj\Debug\net8.0\ref\BlazorWasmReview.Shared.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Shared\obj\Debug\net8.0\BlazorWasmReview.Shared.sourcelink.json

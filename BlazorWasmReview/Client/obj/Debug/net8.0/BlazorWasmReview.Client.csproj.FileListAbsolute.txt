@@ -1094,3 +1094,4 @@ C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWas
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Client\obj\Debug\net8.0\webcil\BlazorWasmReview.TestFake.wasm
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Client\obj\Debug\net8.0\compressed\5n7fm58b86.gz
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Client\obj\Debug\net8.0\compressed\fismewpfah.gz
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Client\obj\Debug\net8.0\BlazorWasmReview.Client.sourcelink.json

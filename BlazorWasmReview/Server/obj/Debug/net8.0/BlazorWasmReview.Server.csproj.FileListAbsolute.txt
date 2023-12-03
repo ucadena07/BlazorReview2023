@@ -53,3 +53,4 @@ C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWas
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.Business.pdb
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.TestFake.dll
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.TestFake.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\obj\Debug\net8.0\BlazorWasmReview.Server.sourcelink.json

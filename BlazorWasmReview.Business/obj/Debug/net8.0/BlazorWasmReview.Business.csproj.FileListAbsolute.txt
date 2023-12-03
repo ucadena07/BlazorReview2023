@@ -13,3 +13,4 @@ C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWas
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\bin\Debug\net8.0\BlazorWasmReview.Shared.pdb
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.csproj.AssemblyReference.cache
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.csproj.CopyComplete
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.Business\obj\Debug\net8.0\BlazorWasmReview.Business.sourcelink.json

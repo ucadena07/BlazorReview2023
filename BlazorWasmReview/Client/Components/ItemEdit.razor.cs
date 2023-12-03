@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Components.Routing;
 
 namespace BlazorWasmReview.Client.Components;
 
-public partial class ItemEdit
+public partial class ItemEdit : IDisposable
 {
     [Inject]
     private NavigationManager NavigationManager { get; set; }
@@ -71,5 +71,11 @@ public partial class ItemEdit
     private void HandleLocationChanged(object sender, LocationChangedEventArgs e)
     {
         SetDataFromUri();
+    }
+    public void Dispose()
+    {
+        //_debounceTimer?.Dispose();
+        NavigationManager.LocationChanged -= HandleLocationChanged;
+        //Item.PropertyChanged -= HandleItemPropertyChanged;
     }
 }

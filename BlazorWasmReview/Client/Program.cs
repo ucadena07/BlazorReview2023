@@ -14,6 +14,7 @@ builder.Services.AddHttpClient("BlazorWasmReview.ServerAPI", client => client.Ba
 ///builder.Services.AddSingleton<IUserManager, UserManager>();
 builder.Services.AddSingleton<IUserManager, UserManagerFake>();
 builder.Services.AddScoped<ICurrentUserService, CurrentUserService>();
+builder.Services.AddScoped<IUserItemManager, UserItemManager>();
 builder.Services.AddScoped<ItemEditService>();
 
 // Supply HttpClient instances that include access tokens when making requests to the server project

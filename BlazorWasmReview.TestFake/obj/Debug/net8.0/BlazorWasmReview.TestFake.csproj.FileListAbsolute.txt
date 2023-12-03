@@ -1,0 +1,16 @@
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\bin\Debug\net8.0\BlazorWasmReview.TestFake.deps.json
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\bin\Debug\net8.0\BlazorWasmReview.TestFake.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\bin\Debug\net8.0\BlazorWasmReview.TestFake.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\bin\Debug\net8.0\BlazorWasmReview.Shared.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\bin\Debug\net8.0\BlazorWasmReview.Shared.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\BlazorWasmReview.TestFake.csproj.AssemblyReference.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\BlazorWasmReview.TestFake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\BlazorWasmReview.TestFake.AssemblyInfoInputs.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\BlazorWasmReview.TestFake.AssemblyInfo.cs
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\BlazorWasmReview.TestFake.csproj.CoreCompileInputs.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\BlazorWasmReview.TestFake.csproj.CopyComplete
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\BlazorWasmReview.TestFake.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\refint\BlazorWasmReview.TestFake.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\BlazorWasmReview.TestFake.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\ref\BlazorWasmReview.TestFake.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.TestFake\obj\Debug\net8.0\BlazorWasmReview.TestFake.sourcelink.json
