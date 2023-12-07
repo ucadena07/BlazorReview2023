@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.GeneralUI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/ucade_lbz6a/OneDrive/Documents/Blazor/Review/BlazorWasmReview/BlazorWasmReview.GeneralUI/BusyOverlay/InProgressOverlay.razor]
+build_metadata.AdditionalFiles.TargetPath = QnVzeU92ZXJsYXlcSW5Qcm9ncmVzc092ZXJsYXkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ucade_lbz6a/OneDrive/Documents/Blazor/Review/BlazorWasmReview/BlazorWasmReview.GeneralUI/DropdownControl/Dropdown.razor]
 build_metadata.AdditionalFiles.TargetPath = RHJvcGRvd25Db250cm9sXERyb3Bkb3duLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

@@ -1305,6 +1305,10 @@
       "PackagePath": "staticwebassets\\jquery\\src\\wrap.js"
     },
     {
+      "Id": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Client\\wwwroot\\js\\jsinterop.js",
+      "PackagePath": "staticwebassets\\js\\jsinterop.js"
+    },
+    {
       "Id": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Client\\wwwroot\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\vendor\\_rfs.scss"
     },

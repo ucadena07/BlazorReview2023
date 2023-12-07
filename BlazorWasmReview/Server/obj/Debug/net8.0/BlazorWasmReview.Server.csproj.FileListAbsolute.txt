@@ -54,3 +54,11 @@ C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWas
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.TestFake.dll
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.TestFake.pdb
 C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\obj\Debug\net8.0\BlazorWasmReview.Server.sourcelink.json
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.DataAccess.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.InMemoryStorage.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.DataAccess.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.InMemoryStorage.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.IndexDb.staticwebassets.runtime.json
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.IndexDb.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview\Server\bin\Debug\net8.0\BlazorWasmReview.IndexDb.pdb

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "H/Vx9HglZaS4/WDxWZBhVW3/1qDc1XLqWSeMPWwUdRnecuKlmgYNTbUsK6rchsP7CRBFWV9KN/Ui/Tex6vEcng==",
+  "dgSpecHash": "zBxqbytTNwzYBVwFZ/W0wR7+hy27Mh1h1Z9mSM5tz46Cngk5O9OvdI6ljMm03npjpHWuXO0EpPZgzJlqnJ+fnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Client\\BlazorWasmReview.Client.csproj",
   "expectedPackageFiles": [
@@ -36,6 +36,7 @@
     "C:\\Users\\ucade_lbz6a\\.nuget\\packages\\microsoft.net.http.headers\\8.0.0\\microsoft.net.http.headers.8.0.0.nupkg.sha512",
     "C:\\Users\\ucade_lbz6a\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.0\\microsoft.net.illink.tasks.8.0.0.nupkg.sha512",
     "C:\\Users\\ucade_lbz6a\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.0\\microsoft.net.sdk.webassembly.pack.8.0.0.nupkg.sha512",
+    "C:\\Users\\ucade_lbz6a\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\ucade_lbz6a\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
     "C:\\Users\\ucade_lbz6a\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\ucade_lbz6a\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",

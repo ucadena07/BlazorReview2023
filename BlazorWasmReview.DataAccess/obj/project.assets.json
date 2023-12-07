@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "BlazorWasmReview.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BlazorWasmReview.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorWasmReview.Shared.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BlazorWasmReview.Shared/1.0.0": {
+      "type": "project",
+      "path": "../BlazorWasmReview/Shared/BlazorWasmReview.Shared.csproj",
+      "msbuildProject": "../BlazorWasmReview/Shared/BlazorWasmReview.Shared.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "BlazorWasmReview.Shared >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\ucade_lbz6a\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Shared\\BlazorWasmReview.Shared.csproj": {
+              "projectPath": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview\\Shared\\BlazorWasmReview.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

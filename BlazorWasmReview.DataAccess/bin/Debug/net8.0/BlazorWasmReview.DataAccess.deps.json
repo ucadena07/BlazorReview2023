@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v8.0": {
       "BlazorWasmReview.DataAccess/1.0.0": {
+        "dependencies": {
+          "BlazorWasmReview.Shared": "1.0.0"
+        },
         "runtime": {
           "BlazorWasmReview.DataAccess.dll": {}
+        }
+      },
+      "BlazorWasmReview.Shared/1.0.0": {
+        "runtime": {
+          "BlazorWasmReview.Shared.dll": {}
         }
       }
     }
   },
   "libraries": {
     "BlazorWasmReview.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlazorWasmReview.Shared/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

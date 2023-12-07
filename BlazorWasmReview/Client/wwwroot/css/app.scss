@@ -1,4 +1,6 @@
 @import '_variables.scss';
+@import '_boostrap_global.scss';
+@import '../bootstrap/scss/_buttons.scss';
 h1:focus {
     outline: none;
 }
@@ -71,4 +73,9 @@ h1:focus {
 
 .tertiary-border-background {
     border-color: $tertiary-color;
+}
+.orga-button{
+    background: $primary-color;
+    color:white;
+    @extend .btn;
 }

@@ -1,6 +1,7 @@
 ﻿@using BlazorWasmReview.Shared.Entities
+@if(UserItems is not null){
 <div class="w-100" @onclick="OnBackgroundClicked">
-    <CascadingValue Value="@(UserItems.Count)">
+    <CascadingValue Value="@(UserItems?.Count)">
         @foreach (var item in UserItems)
         {
             <div>@item.Title</div>
@@ -73,5 +74,5 @@
         }
     </CascadingValue>
 </div>
-
+}
 

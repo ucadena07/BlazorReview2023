@@ -1,6 +1,7 @@
 ﻿@page "/items"
 @page "/items/{TypeString}/{Id:int}"
 @using BlazorWasmReview.Client.Components
+@using BlazorWasmReview.Shared.Enums
 
 <div class="items-container">
     <div class="items-list-container">
@@ -13,6 +14,16 @@
         </div>
     }
 
+</div>
+<div class="item-add-box fixed-bottom">
+    <div class="dropdown item-add-input">
+        @if (DropdownTypes != null)
+        {
+            <Dropdown TValue="ItemTypeEnum" SelectableItems="DropdownTypes" SelectedItemChanged="@(args => SelectedDropdownType = args)" />
+
+        }
+    </div>
+    <button class="orga-button" @onclick="AddNew" disabled="@(SelectedDropdownType == null)">Add</button>
 </div>
 
 

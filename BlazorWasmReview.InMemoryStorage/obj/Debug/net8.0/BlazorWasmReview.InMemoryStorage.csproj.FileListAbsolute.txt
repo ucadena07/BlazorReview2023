@@ -1,0 +1,16 @@
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\bin\Debug\net8.0\BlazorWasmReview.InMemoryStorage.deps.json
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\bin\Debug\net8.0\BlazorWasmReview.InMemoryStorage.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\bin\Debug\net8.0\BlazorWasmReview.InMemoryStorage.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\bin\Debug\net8.0\BlazorWasmReview.Shared.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\bin\Debug\net8.0\BlazorWasmReview.Shared.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\BlazorWasmReview.InMemoryStorage.csproj.AssemblyReference.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\BlazorWasmReview.InMemoryStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\BlazorWasmReview.InMemoryStorage.AssemblyInfoInputs.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\BlazorWasmReview.InMemoryStorage.AssemblyInfo.cs
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\BlazorWasmReview.InMemoryStorage.csproj.CoreCompileInputs.cache
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\BlazorWasmReview.InMemoryStorage.sourcelink.json
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\BlazorWasmReview.InMemoryStorage.csproj.CopyComplete
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\BlazorWasmReview.InMemoryStorage.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\refint\BlazorWasmReview.InMemoryStorage.dll
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\BlazorWasmReview.InMemoryStorage.pdb
+C:\Users\ucade_lbz6a\OneDrive\Documents\Blazor\Review\BlazorWasmReview\BlazorWasmReview.InMemoryStorage\obj\Debug\net8.0\ref\BlazorWasmReview.InMemoryStorage.dll

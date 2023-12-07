@@ -5,7 +5,7 @@ namespace BlazorWasmReview.GeneralUI.DropdownControl;
 public partial class Dropdown<TValue> : ComponentBase
 {
     [Parameter]
-    public IList<DropdownItem<TValue>> SelectableItems { get; set; }
+    public IList<DropdownItem<TValue>> SelectableItems { get; set; } 
     [Parameter]
     public DropdownItem<TValue> SelectedItem { get; set; }
     [Parameter]

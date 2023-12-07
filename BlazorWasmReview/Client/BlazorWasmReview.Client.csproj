@@ -22,7 +22,10 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\BlazorWasmReview.Business\BlazorWasmReview.Business.csproj" />
+    <ProjectReference Include="..\..\BlazorWasmReview.DataAccess\BlazorWasmReview.DataAccess.csproj" />
     <ProjectReference Include="..\..\BlazorWasmReview.GeneralUI\BlazorWasmReview.GeneralUI.csproj" />
+    <ProjectReference Include="..\..\BlazorWasmReview.IndexDb\BlazorWasmReview.IndexDb.csproj" />
+    <ProjectReference Include="..\..\BlazorWasmReview.InMemoryStorage\BlazorWasmReview.InMemoryStorage.csproj" />
     <ProjectReference Include="..\..\BlazorWasmReview.TestFake\BlazorWasmReview.TestFake.csproj" />
     <ProjectReference Include="..\Shared\BlazorWasmReview.Shared.csproj" />
   </ItemGroup>

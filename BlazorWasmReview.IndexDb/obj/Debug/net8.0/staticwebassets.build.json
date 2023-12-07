@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "4Fn2bbVJSoQTAep/LgEvOjHd2JqZchh/aIRFKyruHoU=",
+  "Source": "BlazorWasmReview.IndexDb",
+  "BasePath": "_content/BlazorWasmReview.IndexDb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorWasmReview.IndexDb\\wwwroot",
+      "Source": "BlazorWasmReview.IndexDb",
+      "ContentRoot": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview.IndexDb\\wwwroot\\",
+      "BasePath": "_content/BlazorWasmReview.IndexDb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview.IndexDb\\wwwroot\\js\\indexDb.js",
+      "SourceId": "BlazorWasmReview.IndexDb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ucade_lbz6a\\OneDrive\\Documents\\Blazor\\Review\\BlazorWasmReview\\BlazorWasmReview.IndexDb\\wwwroot\\",
+      "BasePath": "_content/BlazorWasmReview.IndexDb",
+      "RelativePath": "js/indexDb.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\indexDb.js"
+    }
+  ]
+}

@@ -11,5 +11,7 @@ namespace BlazorWasmReview.Shared.Contracts
     public interface IUserItemManager
     {
         Task<ChildItem> CreateNewChildItemAndAddItToParentItemAsync(ParentItem parent);
+        Task<BaseItem> CreateNewUserItemAndAddItToUserAsync(User user, ItemTypeEnum typeEnum);
+        Task RetrieveAllUserItemsOfUserAndSetToUserAsync(User user);
     }
 }

@@ -5,7 +5,7 @@ using System.ComponentModel;
 
 namespace BlazorWasmReview.Client.Components;
 
-public partial class ItemElement<TItem> where TItem : BaseItem
+public partial class ItemElement<TItem> : IDisposable where TItem : BaseItem
 {
     [Parameter]
     public RenderFragment MainFragment { get; set; }
@@ -47,5 +47,9 @@ public partial class ItemElement<TItem> where TItem : BaseItem
     private void HandleItemPropertyChanged(object sender, PropertyChangedEventArgs e)
     {
         StateHasChanged();
+    }
+    public void Dispose()
+    {
+        Item.PropertyChanged -= HandleItemPropertyChanged;
     }
 }
