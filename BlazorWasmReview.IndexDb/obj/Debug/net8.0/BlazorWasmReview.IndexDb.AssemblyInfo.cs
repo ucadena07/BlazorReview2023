@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorWasmReview.IndexDb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd268522fb77cd3bae0f8f9fb46fdfa958ca2e10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorWasmReview.IndexDb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorWasmReview.IndexDb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

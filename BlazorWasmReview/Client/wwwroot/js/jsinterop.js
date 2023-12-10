@@ -7,9 +7,22 @@ window.blazorDimension = {
   }
 }
 window.blazorResize = {
-  registerRefForResizeEvent: (dotnotRef) => {
-    window.addEventListener("resize", () => {
-      dotnotRef.invokeMethodAsync("HandleResize",window.innerWidth,window.innerHeight)
-    })
+  assigments: [],
+  registerRefForResizeEvent: (name,dotnotRef) => {
+    const handler = () => {
+      dotnotRef.invokeMethodAsync("HandleResize", window.innerWidth, window.innerHeight)
+    }
+    const assigment = {
+      name: name,
+      handler: handler
+    }
+    blazorResize.assigments.push(assigment)
+    window.addEventListener("resize", assigment.handler)
+  },
+  unregister: (name) => {
+    const assignment = blazorResize.assigments.find(a = a.name === name)
+    if (assignment != null) {
+      window.removeEventListener("resize", assignment.handler)
+    }
   }
 }
